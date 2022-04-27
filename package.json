@@ -1,0 +1,19 @@
+{
+  "name": "digital-signature",
+  "version": "1.0.0",
+  "description": "Simple digital signature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redveronika/digital-signature.git"
+  },
+  "author": "Veronika Voronova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redveronika/digital-signature/issues"
+  },
+  "homepage": "https://github.com/redveronika/digital-signature#readme"
+}
